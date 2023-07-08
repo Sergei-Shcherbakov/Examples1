@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj": {}
+    "c:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj": {
+    "c:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj",
+        "projectUniqueName": "c:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj",
         "projectName": "Example001",
-        "projectPath": "C:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj",
+        "projectPath": "c:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\Example001.csproj",
         "packagesPath": "C:\\Users\\Sergei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\obj\\",
+        "outputPath": "c:\\Users\\Sergei\\Desktop\\Lessons C#\\Examples\\Example001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergei\\AppData\\Roaming\\NuGet\\NuGet.Config"
